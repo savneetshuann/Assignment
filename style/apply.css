@@ -2,6 +2,9 @@
 body {
 	background-color: #16eb3a;
 }
+h1{
+    color: #FFFFFF;
+}
 main {
 	display: block;
 	margin-top: 1%;
