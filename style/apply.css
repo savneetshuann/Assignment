@@ -1,0 +1,16 @@
+/*Savneet 12-12-2020*/
+body {
+	background-color: #16eb3a;
+}
+main {
+	display: block;
+	margin-top: 1%;
+	padding: 1em;	
+    background-color: #FFFFFF;
+    box-shadow: .5em .5em .5em #404040;
+}
+/* Style for the footer element */
+footer {
+	font-size: .70em;
+	text-align: center;
+}
